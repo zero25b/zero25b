@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zero25b
 - 👀 I’m interested in crypto projects
 - 🌱 I’m a python-based data scientist expanding to C#
-- 💞️ I’m looking to collaborate on anything related to data science, crypto, math or finance
+- 💞️ I’m looking to collaborate on anything related to data science, mathematics or crypto
 - 📫 Email me at zero25@tutanota.com
 
 <!---
