@@ -1,4 +1,4 @@
- - Open to collaboration on crypto, mathematics, or data science projects
+ - Interested in crypto, mathematics, and data science projects
  - Email me at zero25@tutanota.com
 
 <!---
